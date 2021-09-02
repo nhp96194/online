@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+    
+}
+nav{
+    font-family: arial;
+    color: black;
+}
+h1{
+    font-size: 48px;
+    text-align: center;
+    
+    
+
+}
+.logo h1{
+     text-align: center;
+     color: blue;
+     margin-left: 50px;
+}
+.logo{
+    
+    height: 150px;
+    width: 150px;
+}
+
+li{
+    float: center;
+    display: inline-block;
+    margin-left: 45px;
+    margin-top: 15px;
+    color: black;
+    box-sizing: border-box;
+
+}
+li:hover{
+    border: 1px solid black;
+    border-bottom: 2px solid crimson;
+}
